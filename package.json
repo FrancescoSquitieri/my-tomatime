@@ -1,0 +1,17 @@
+{
+  "name": "tomatime",
+  "private": true,
+  "scripts": {
+    "install-backend": "cd ./backend && npm install",
+    "install-frontend": "cd ./app && npm install",
+    "install": "concurrently 'npm:install-backend' 'npm:install-frontend'",
+    "start-backend": "cd ./backend && npm run dev",
+    "start-frontend": "cd ./app && npm start",
+    "start-mongodb": "cd ./backend && npm run mongo",
+    "start": "concurrently 'npm:start-backend' 'npm:start-frontend'"
+  },
+  "dependencies": {
+    "concurrently": "^7.3.0",
+    "react-router-dom": "^6.3.0"
+  }
+}

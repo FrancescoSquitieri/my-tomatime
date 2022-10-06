@@ -1,0 +1,15 @@
+.AddTodoCard {
+    min-width: 20rem;
+    min-height: 3.688rem;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: 0.8rem;
+    border: 1px dashed gray;
+    background-color: transparent;
+}
+
+.AddTodoCard:hover {
+    border: 1px solid grey;
+    background-color: #F5F5F5;
+}

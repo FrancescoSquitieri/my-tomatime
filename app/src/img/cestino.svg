@@ -1,0 +1,7 @@
+<svg id="Componente_6_2" data-name="Componente 6 – 2" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Rettangolo_14" data-name="Rettangolo 14" fill="none" stroke="#646464" stroke-width="1">
+    <rect width="36" height="36" rx="8" stroke="none"/>
+    <rect x="0.5" y="0.5" width="35" height="35" rx="7.5" fill="none"/>
+  </g>
+  <path id="Icon_material-delete" data-name="Icon material-delete" d="M8.643,22.278A2.261,2.261,0,0,0,10.929,24.5h9.143a2.261,2.261,0,0,0,2.286-2.222V8.944H8.643ZM23.5,5.611h-4L18.357,4.5H12.643L11.5,5.611h-4V7.833h16Z" transform="translate(2.5 3.5)" fill="#646464"/>
+</svg>

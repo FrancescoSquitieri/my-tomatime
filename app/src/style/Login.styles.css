@@ -1,0 +1,63 @@
+.time-to-focus {
+    position: relative;
+    right: 100px;
+    top: 270px;
+}
+.man-login {
+    height: 850px;
+    width: 850px;
+    position: relative;
+    left: 80px;
+    z-index: 1;
+}
+
+.back-green {
+    width: 655px;
+    height: 660px;
+    position: absolute;
+    left: 250px;
+    /* right: 0; */
+    top: 270px;
+    z-index: 0;
+}
+.login-form {
+    min-width: 320px;
+    max-width: 320px;
+    min-height: 360px;
+}
+.form-login-header {
+    font-family: "Rubik", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    height: 57px;
+    width: 152px;
+}
+
+.login-input::placeholder {
+    color: dimgray;
+    padding: 0;
+}
+
+
+.btn-login {
+    max-width: 150px;
+    font-family: "Rubik", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.not-registered-text {
+    font-size: .93rem;
+}
+.abs{
+    position: absolute;
+    /* left: 500px; */
+    right: 0;
+    bottom: -40px;
+    /* z-index: 0; */
+}
+.abs-focus{
+    position: absolute;
+    right: 450px;
+    top: 300px;
+}

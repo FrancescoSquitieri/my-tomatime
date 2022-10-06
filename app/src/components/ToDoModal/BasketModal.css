@@ -1,0 +1,36 @@
+.modal{
+    height: 70%;
+}
+
+.btn-modal-delete-1 {
+    padding: 2px 17px;
+    background-color: white;
+    border: 1px solid grey;
+    color: grey;
+}
+
+.btn-modal-delete-1:hover {
+    background-color: grey;
+    border: 1px solid grey;
+    color: white;
+}
+
+.card-detail {
+    min-width: 20rem;
+    min-height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: #F5F5F5 !important;
+}
+
+.btn-modal-delete-2 {
+    padding: 2px 17px;
+    background-color: #f54343;
+    color: white;
+}
+
+.btn-modal-delete-2:hover {
+    background-color: #dd1515;
+}
